@@ -1,6 +1,6 @@
 {
   "name": "@babii_oleh/utils",
-  "version": "1.0.3",
+  "version": "1.0.6",
   "description": "My custom npm package with useful utils",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
